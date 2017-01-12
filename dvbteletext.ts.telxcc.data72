@@ -1,0 +1,269 @@
+{  504} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  507} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  510} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{  525} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  528} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 20 20 20 20 20 20 20 0B 0B 56 61 64 20 74 72 6F 72 20 6E 69 3F 0A 0A 20 20 20 20 20 20 20 20 20 20 20 20 ]
+    8[0D 20 20 20 20 20 20 20 20 20 20 20 0B 0B D6 61 64 20 F4 F2 EF F2 20 6E E9 BF 8A 8A 20 20 20 20 20 20 20 20 20 20 20 20 ]
+    C[           Vad tror ni?
+
+            ]
+
+{  529} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  531} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 20 20 20 20 20 20 0B 0B 4D 69 74 7B 20 61 72 76 65 6C 65 74 74 65 3F 0A 0A 20 20 20 20 20 20 20 20 20 20 ]
+    8[0D 20 20 20 20 20 20 20 20 20 20 0B 0B CD E9 F4 FB 20 61 F2 76 E5 EC E5 F4 F4 E5 BF 8A 8A 20 20 20 20 20 20 20 20 20 20 ]
+    C[          Mit{ arvelette?
+
+          ]
+
+{  532} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{  918} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  921} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{  927} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  930} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{  942} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  945} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 0B 0B 4F 6C 65 6E 20 61 73 75 6E 75 74 20 74 7B 7B 6C 6C 7B 20 33 30 20 76 75 6F 74 74 61 2E 0A 0A 20 20 20 ]
+    8[0D 20 20 20 0B 0B 4F EC E5 6E 20 61 73 75 6E 75 F4 20 F4 FB FB EC EC FB 20 B3 B0 20 76 75 EF F4 F4 61 AE 8A 8A 20 20 20 ]
+    C[   Olen asunut t{{ll{ 30 vuotta.
+
+   ]
+
+{  946} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{  951} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{  954} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 20 20 20 0B 0B 48 61 72 20 62 6F 74 74 20 68 7B 72 20 69 20 33 30 20 7D 72 2D 0A 0A 20 20 20 20 20 20 20 ]
+    8[0D 20 20 20 20 20 20 20 0B 0B C8 61 F2 20 62 EF F4 F4 20 68 FB F2 20 E9 20 B3 B0 20 FD F2 AD 8A 8A 20 20 20 20 20 20 20 ]
+    C[       Har bott h{r i 30 }r-
+
+       ]
+
+{  955} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{ 1227} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 1230} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 1233} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{ 1251} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 1254} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 0B 0B 2D 6F 63 68 20 76 65 74 20 68 75 72 20 64 65 20 73 6B 61 20 73 65 20 75 74 2E 0A 0A 20 20 20 20 20 ]
+    8[0D 20 20 20 20 0B 0B AD EF E3 68 20 76 E5 F4 20 68 75 F2 20 64 E5 20 73 6B 61 20 73 E5 20 75 F4 AE 8A 8A 20 20 20 20 20 ]
+    C[    -och vet hur de ska se ut.
+
+     ]
+
+{ 1255} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 1257} [AA AA E4] X=6h/Y=20
+    7[0D 20 20 0B 0B 54 69 65 64 7B 6E 2C 20 6D 69 6C 6C 61 69 73 69 6C 74 61 20 61 72 76 6F 68 61 72 6B 6F 74 0A 0A 20 20 20 ]
+    8[0D 20 20 0B 0B 54 E9 E5 64 FB 6E 2C 20 6D E9 EC EC 61 E9 73 E9 EC F4 61 20 61 F2 76 EF 68 61 F2 6B EF F4 8A 8A 20 20 20 ]
+    C[  Tied{n, millaisilta arvoharkot
+
+   ]
+
+{ 1258} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 20 20 20 20 20 20 20 20 0B 0B 6E 7B 79 74 74 7B 76 7B 74 2E 0A 0A 20 20 20 20 20 20 20 20 20 20 20 20 20 ]
+    8[0D 20 20 20 20 20 20 20 20 20 20 20 20 0B 0B 6E FB 79 F4 F4 FB 76 FB F4 AE 8A 8A 20 20 20 20 20 20 20 20 20 20 20 20 20 ]
+    C[            n{ytt{v{t.
+
+             ]
+
+{ 1259} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{ 2034} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2037} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2040} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{ 2058} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2061} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 20 20 20 0B 0B 44 65 20 73 65 72 20 69 6E 74 65 20 75 74 20 73 7D 68 7B 72 2E 0A 0A 20 20 20 20 20 20 20 ]
+    8[0D 20 20 20 20 20 20 20 0B 0B C4 E5 20 73 E5 F2 20 E9 6E F4 E5 20 75 F4 20 73 FD 68 FB F2 AE 8A 8A 20 20 20 20 20 20 20 ]
+    C[       De ser inte ut s}h{r.
+
+       ]
+
+{ 2062} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2064} [AA AA E4] X=6h/Y=22
+    7[0D 20 20 20 20 20 20 20 0B 0B 4E 65 20 65 69 76 7B 74 20 6E 7B 79 74 7B 20 74 7B 6C 74 7B 2E 0A 0A 20 20 20 20 20 20 20 ]
+    8[0D 20 20 20 20 20 20 20 0B 0B CE E5 20 E5 E9 76 FB F4 20 6E FB 79 F4 FB 20 F4 FB EC F4 FB AE 8A 8A 20 20 20 20 20 20 20 ]
+    C[       Ne eiv{t n{yt{ t{lt{.
+
+       ]
+
+{ 2065} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{ 2412} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2415} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2418} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+
+{ 2433} [AA AA E4] X=6h/Y=0
+    [691]
+    Page_Units=1h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2436} [AA AA E4] X=6h/Y=22
+    7[0D 0B 0B 4F 6D 20 4B 47 3A 73 20 74 61 63 6B 61 20 76 69 73 61 72 20 73 69 67 20 76 61 72 61 20 73 6B 72 7B 70 2D 0A 0A ]
+    8[0D 0B 0B 4F 6D 20 CB C7 BA 73 20 F4 61 E3 6B 61 20 76 E9 73 61 F2 20 73 E9 67 20 76 61 F2 61 20 73 6B F2 FB 70 AD 8A 8A ]
+    C[Om KG:s tacka visar sig vara skr{p-
+
+]
+
+{ 2437} [AA AA E4] X=6h/Y=0
+    [694]
+    Page_Units=4h Page_Tens=9h
+    S1=0 S2=0 S3=0 S4=0
+    C4=1 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=1 C14=0
+
+{ 2439} [AA AA E4] X=6h/Y=22
+    7[0D 0B 0B 4A 6F 73 20 4B 47 3A 6E 20 68 61 72 6B 6B 6F 20 65 69 20 6F 6C 65 6B 61 61 6E 20 68 6F 70 65 61 61 2D 0A 0A 20 ]
+    8[0D 0B 0B 4A EF 73 20 CB C7 BA 6E 20 68 61 F2 6B 6B EF 20 E5 E9 20 EF EC E5 6B 61 61 6E 20 68 EF 70 E5 61 61 AD 8A 8A 20 ]
+    C[Jos KG:n harkko ei olekaan hopeaa-
+
+ ]
+
+{ 2440} [AA AA E4] X=6h/Y=0
+    [6FF]
+    Page_Units=Fh Page_Tens=Fh
+    S1=0 S2=0 S3=0 S4=0
+    C4=0 C5=0 C6=1 C7=1 C8=0 C9=1 C10=0 C11=0 C12=0 C13=0 C14=0
+

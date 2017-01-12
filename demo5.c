@@ -252,6 +252,10 @@ static void process_telx_packet(data_unit_t data_unit_id, teletext_packet_payloa
 	uint8_t designation_code = (y > 25) ? unham_8_4(packet->data[0]) : 0x00;
 
 
+fprintf(stderr, "%s:%d: 0=%Xh<>%Xh 1=%X<>%X\n", __FUNCTION__, __LINE__,
+packet->address[0], unham_8_4(packet->address[0]),
+packet->address[1], unham_8_4(packet->address[1]));
+
 fprintf(stderr, "%s:%d: m=%d, y=%d\n", __FUNCTION__, __LINE__, (int)m, (int)y);
 
 
